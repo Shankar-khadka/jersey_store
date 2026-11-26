@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# user-uploaded product images (seed SVGs are kept)
+uploads/products/p_*
